@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on ASP.NET Core Web API
+I'm currently working on ASP.NET Core
 
 
 # 💻 Tech Stack:
